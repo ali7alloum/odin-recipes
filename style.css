@@ -1,0 +1,24 @@
+
+h3 {
+    background-color: rgba(25, 24, 24, 0.248);
+    color: orangered;
+    padding: 10px;
+    max-width: 95px;
+}
+h4 {
+    color: blueviolet;
+}
+h1 {
+    background-color:rgba(25, 24, 24, 0.248);
+    color: orangered;
+    text-align: center;
+}
+b {
+    color: green;
+}
+p {
+    color:black
+}
+img {
+    margin-left: 480px;
+}
