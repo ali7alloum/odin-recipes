@@ -1,4 +1,5 @@
 
+
 h3 {
     background-color: rgba(25, 24, 24, 0.248);
     color: orangered;
@@ -21,4 +22,11 @@ p {
 }
 img {
     margin-left: 480px;
+}
+ul {
+    border: 5px solid black;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: bisque;
+    border-radius: 1rem;
 }
